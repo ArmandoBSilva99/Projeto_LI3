@@ -1,6 +1,6 @@
 # Projeto_LI3
 
-**Management system and consultation of business recommendations on Yelp platform**
+**Management system and business recommendations on Yelp platform**
 
 #### Colaborators:
  - [André Silva](https://github.com/AndreFGSilva)
